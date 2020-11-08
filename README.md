@@ -1,16 +1,15 @@
-### Hi there 👋
+![](https://raw.githubusercontent.com/hebertdev1/hebertdev1/master/javascript.gif)
 
-<!--
-**Mugenmatt/Mugenmatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi. I'm Matías Godoy
+----------------------
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### 🔥Im a Full Stack Developer
+- #### 💼I'm currently searching for my first IT job
+- #### 🎓I studied in Digital House (Fullstack Web Development) and Acamica (React)
+
+## Contact me
+
+#### [Linkedin](<https://www.linkedin.com/in/matias-godoy/>)
+#### Email --> matigodoy93@hotmail.com
