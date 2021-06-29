@@ -5,9 +5,9 @@
 
 ## About me 💻
 
-- ###  🔥Im a Full Stack Developer
+- ###  🔥Im a Full Stack Developer (Oriented to Front-End)
 - ####  💼I'm currently searching for my first IT job
-- ####  🎓I studied in Digital House (Fullstack Web Development) and Acamica (React)
+- ####  🎓I studied in Digital House (Fullstack Web Development), Acamica (React) and an acceleration at Alkemy (React)
 
 ## Contact me 📨
 
