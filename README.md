@@ -6,7 +6,7 @@
 ## About me 💻
 
 - ###  🔥Im a Front-end Developer
-- ####  💼I'm currently searching for my first IT job
+- ####  💼I am a frontend developer with over 3 years of experience
 - ####  🎓I studied in Digital House (Node - React), Acamica (React) and an acceleration at Alkemy (React)
 
 ## Get in touch! 📨
